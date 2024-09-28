@@ -38,5 +38,5 @@ I'm a passionate DevOps Engineer and Python Developer with 3+ years of experienc
 Outside of tech, I'm an intermediate bodybuilder aiming for muscle growth and visible abs. 🏋️‍♂️
 
 ## 📫 How to Reach Me
-- [LinkedIn](linkedin.com/in/anand-s-7336a6222)
+- [LinkedIn](https://www.linkedin.com/in/anand-s-7336a6222/)
 - [Email](mailto:snvanands@gmail.com)
