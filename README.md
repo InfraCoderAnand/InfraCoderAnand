@@ -26,6 +26,7 @@ I'm a passionate DevOps Engineer and Python Developer with 3+ years of experienc
 - **Network Monitoring with SNMP :** Developed scripts for uptime monitoring using Python and PySNMP.
 
 ## 🎓 Certifications
+- 🥇 **AWS Certified Solutions Architect**
 - 🥇 **AWS Certified Cloud Practitioner**
 - 🥈 **AWS Technical Accreditation**
 - 🥉 **Career Essentials in GitHub Professional Certificate**
